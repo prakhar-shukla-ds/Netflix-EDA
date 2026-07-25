@@ -151,9 +151,7 @@ Created visualizations using:
 
 ---
 
-## Note
-
-This repository is shared for portfolio and educational purposes. Please do not reuse, modify, or redistribute the code or content without permission.
+> **Note:** This repository is shared for portfolio and educational purposes. Please do not reuse, modify, or redistribute the code or content without permission.
 
 ---
 
